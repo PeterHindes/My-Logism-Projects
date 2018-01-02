@@ -324,7 +324,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="output" val="true"/>
       <a name="labelloc" val="east"/>
     </comp>
-    <comp loc="(720,100)" name="4(7)x8 adder"/>
+    <comp loc="(720,100)" name="4(7)x9 adder"/>
     <comp lib="0" loc="(380,340)" name="Constant">
       <a name="value" val="0x0"/>
     </comp>
@@ -558,8 +558,8 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="inputs" val="2"/>
     </comp>
   </circuit>
-  <circuit name="4(7)x8 adder">
-    <a name="circuit" val="4(7)x8 adder"/>
+  <circuit name="4(7)x9 adder">
+    <a name="circuit" val="4(7)x9 adder"/>
     <a name="clabel" val=""/>
     <a name="clabelup" val="east"/>
     <a name="clabelfont" val="SansSerif plain 12"/>
